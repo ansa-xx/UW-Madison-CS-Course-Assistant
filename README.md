@@ -32,9 +32,11 @@ Generate Answer (Cohere Command R+)
      ▼
 Natural Language Response
 
-Setup
+## Setup
 bash# Clone the repo
+
 git clone https://github.com/ansa-xx/UW-Madison-CS-Course-Assistant
+
 cd UW-Madison-CS-Course-Assistant
 
 # Install dependencies

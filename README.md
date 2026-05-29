@@ -31,6 +31,7 @@ Generate Answer (Cohere Command R+)
      │
      ▼
 Natural Language Response
+
 Setup
 bash# Clone the repo
 git clone https://github.com/ansa-xx/UW-Madison-CS-Course-Assistant
@@ -44,6 +45,8 @@ export COHERE_API_KEY="your_api_key_here"
 
 # Run
 python uw_course.py
+
 Get a free API key at dashboard.cohere.com
+
 Courses Covered
 15 UW-Madison CS and Data Science courses including CS540 (AI), CS541 (ML), CS544 (Big Data), CS564 (Databases), CS571 (UI), CS577 (Algorithms), and more.
